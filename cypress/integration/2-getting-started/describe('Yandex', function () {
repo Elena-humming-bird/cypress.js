@@ -1,0 +1,5 @@
+describe('Yandex', function () {
+	it('search cats', function() {
+	cy.visit('https://yandex.ru/');
+	})
+})
